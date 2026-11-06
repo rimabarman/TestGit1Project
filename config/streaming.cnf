@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <array name="StreamingConfiguration" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="name">TestGit1Project_project.testgit1.streaming.connections:EmbeddedMessaging</value>
+        <value name="description">This is the default embedded messaging account</value>
+        <value name="package">TestGit1Project</value>
+        <value name="type">Universal Messaging</value>
+        <value name="clientId">EM84289d8778564be183abbaa6c1ff33b1</value>
+        <value name="enabled">false</value>
+        <value name="other_properties"></value>
+        <value name="dynamic_properties">jms.username=admin
+jms.password=*****
+um.server.url=nhp://stage00-prod979566-um-0.int-prod979566.svc.cluster.local:9000/</value>
+        <value name="securityProtocol"></value>
+        <value name="truststoreAlias"></value>
+        <value name="keystoreAlias"></value>
+        <value name="keystoreKeyAlias"></value>
+      </record>
+    </array>
+  </record>
+</IDataXMLCoder>

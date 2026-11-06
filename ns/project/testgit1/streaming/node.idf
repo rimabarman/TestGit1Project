@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">project.testgit1.streaming</value>
+  <value name="node_pkg">TestGit1Project</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Rima.Barman@ibm.com</value>
+    <value name="modifiedBy">Rima.Barman@ibm.com</value>
+    <value name="createdDate">2026-11-06T07:10:23.959601870Z</value>
+    <value name="lastModifiedDate">2026-11-06T07:10:23.959601870Z</value>
+  </record>
+  <value name="is_public">false</value>
+</Values>
